@@ -1,12 +1,14 @@
 
 import './App.css';
+import Body from './components/Body';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1 className='text-lg text-red-300'>Learn React</h1>
-      </header>
+      
+     
+     <Body />
     </div>
   );
 }
