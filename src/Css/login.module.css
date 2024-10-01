@@ -95,10 +95,10 @@ form button:hover {
     background: #c40812;
 }
 
-.form-wrapper p:hover {
+.toggle-text:hover {
     text-decoration: underline;
 }
-.form-wrapper :where(label, p) {
+.form-wrapper :where(label) {
     color: #b3b3b3;
 }
 form .form-help {
@@ -115,7 +115,7 @@ form .remember-me input {
 form .form-help :where(label, a) {
     font-size: 0.9rem;
 }
-.form-wrapper p  {
+.toggle-text {
     color: #fff;
     cursor: pointer;
 }

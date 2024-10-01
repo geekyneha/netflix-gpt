@@ -6,6 +6,13 @@
 - Routing
 - Sign In form 
 - Sign Up form
+- Form validation 
+- useRef Hook
+- firbase setup 
+- deploying code to preoduction
+- Create signUp user account 
+- 
+
 
 # Features
 
